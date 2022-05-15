@@ -1,1 +1,1 @@
-# computerlesson.com
+# LDY_GAM1NG
