@@ -33,10 +33,15 @@ nav a:hover{
 #wrap_page{
     width: 1080px;
     margin: 0 auto;
+    overflow: hidden;
 }
-#content_page{
+#conter-page{
+    width: 60%;
+    height: auto;
     float: left;
 }
 #sidebar{
+    width: 40%;
+    height: auto;
     float: right;
 }
