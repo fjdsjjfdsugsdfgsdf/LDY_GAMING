@@ -35,13 +35,18 @@ nav a:hover{
     margin: 0 auto;
     overflow: hidden;
 }
-#conter-page{
-    width: 60%;
+#page{
+    width: 540;
     height: auto;
     float: left;
 }
 #sidebar{
-    width: 40%;
+    width: 540;
     height: auto;
     float: right;
+}
+#header{
+    margin-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
 }
